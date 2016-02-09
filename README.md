@@ -8,4 +8,5 @@ Simple todo list
 2. Put the script in your `PATH`.
 
 Developed By : Vaibhav Soni
+
 Email        : Vaibhv.soni1001@gmail.com
